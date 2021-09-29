@@ -685,9 +685,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-swift";
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CMT56NXAC7;
 				INFOPLIST_FILE = "GDTMobSample-Swift/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -700,10 +700,10 @@
 					"$(PROJECT_DIR)/lib",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qq.gdt.GDTMobSample.swift.db;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mianjiajia.qinke;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "071e9f06-a481-46d5-9792-8bf0152abd64";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "GDTMobSample-Swift/GDTMobSample-Swift-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
@@ -716,9 +716,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-swift";
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CMT56NXAC7;
 				INFOPLIST_FILE = "GDTMobSample-Swift/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -731,9 +731,9 @@
 					"$(PROJECT_DIR)/lib",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qq.gdt.GDTMobSample.swift.db;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mianjiajia.qinke;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "071e9f06-a481-46d5-9792-8bf0152abd64";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "GDTMobSample-Swift/GDTMobSample-Swift-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -799,9 +799,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-swift";
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Tencent Technology (Shenzhen) Co., Ltd";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = HKB8WPFBR9;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CMT56NXAC7;
 				INFOPLIST_FILE = "GDTMobSample-Swift/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -814,10 +814,10 @@
 					"$(PROJECT_DIR)/lib",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.qq.gdt.GDTMobSample.swift.db;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mianjiajia.gdttest2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "071e9f06-a481-46d5-9792-8bf0152abd64";
-				PROVISIONING_PROFILE_SPECIFIER = "071e9f06-a481-46d5-9792-8bf0152abd64";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "GDTMobSample-Swift/GDTMobSample-Swift-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

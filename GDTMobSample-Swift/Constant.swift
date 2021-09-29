@@ -9,9 +9,9 @@
 import Foundation
 
 struct Constant {
-    static let appID = "1105344611"
-    static let placementID = "9040714184494018"
-    static let kGDTMobSDKAppId = "1105344611"
+    static let appID = "1200134336"
+    static let placementID = "3062839875997662"
+    static let kGDTMobSDKAppId = "1200134336"
     static let ScreenHeight = UIScreen.main.bounds.height
     static let ScreenWidth = UIScreen.main.bounds.width
 }
